@@ -1,18 +1,19 @@
 # SQL_Data_Exploration_Project
 
 ### Business Scenerio:
-MovieNow is an online movie streaming platform. Management wants to make some short term business/ operational decisions such as 'What new movies should they invest in by next quarter?', 'How much should be budgeted for next quarter?'. They have requested that the data analyst create some reports which would be presented to senior management to guide their decision making. 
+MovieNow is an online movie streaming platform. Management wants to make some short term business/ operational decisions and as such needs their data analysed. They have requested that the data analyst create some reports which would be presented to senior management to guide their decision making. 
+
 
 The Customer Relationship Manager and the Accounts Manager have provided some Key Performance Indicators. 
 1. Total number of movie rentals.
 2. Total revenue
 3. Total number of ratings
 4. Customer Satisfaction, to be derived from the average rating of all movies
-5. Customer Engagemnet, to be derived from the number of active customers in a certain time period.
+5. Customer Engagement, to be derived from the number of active customers in a certain time period.
 6. Average price of movie rentals by genre
 7. Profit from movie rentals
 8. Total number of active customers.
-9. 
+
 
 
 To give clearer insight into the data the following business questions have been formulated:
