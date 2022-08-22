@@ -3,6 +3,8 @@
 ### Business Scenerio:
 MovieNow is an online movie streaming platform. Management wants to make some short term business/ operational decisions and as such needs their data analysed. They have requested that the data analyst create some reports which would be presented to senior management to guide their decision making. 
 
+#### The company data is stored in MySQL. Find the SQL queries written to explore the data [here](https://github.com/Jennie-Techie/SQL_Data_Exploration_Project/blob/8eb696a9c7af985461944bde12d8ce84d89888b9/Movie_Now_Data_Exploration_project.sql). 
+
 
 ### The Customer Relationship Manager and the Accounts Manager have provided some Key Performance Indicators. 
 1. Total number of movie rentals.
