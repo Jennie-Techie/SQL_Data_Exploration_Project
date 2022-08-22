@@ -39,4 +39,3 @@ MovieNow is an online movie streaming platform. Management wants to make some sh
 
 
 
-#### https://assets.datacamp.com/production/repositories/4068/datasets/6abeae4810d472a18df091e19ed36373ebed410e/MovieNow.sql
